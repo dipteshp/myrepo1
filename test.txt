@@ -1,5 +1,0 @@
-Hi this is diptesh
-This is a test file for git.
-
-This is very testy
-veryvery testy testy
